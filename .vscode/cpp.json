@@ -2,11 +2,11 @@
 	"C++ Template": {
 		"prefix": "aa",
 		"body": [
-			"#include <bits/stdc++.h>",
+			"#include <iostream.h>",
 			"using namespace std;",
 			"",
 			"int main() {",
-			"    $1",
+			"    ",
 			"    return 0;",
 			"}"
 		],
